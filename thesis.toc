@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}What is a hacker?}{1}
+\contentsline {subsection}{\numberline {1.2}Hacker Ethic}{5}
+\contentsline {section}{\numberline {2}Common Evidence, Divergent Methodology}{7}
+\contentsline {section}{\numberline {3}Clay Tablets and Telegraphs}{10}
+\contentsline {section}{\numberline {4}Institutional Revolutionaries}{16}
+\contentsline {section}{\numberline {5}Homebrew Clubs to Underground, Emergent}{19}
+\contentsline {subsection}{\numberline {5.1}Phreaking}{19}
+\contentsline {subsection}{\numberline {5.2}Homebrew Computer Club vs. Gates}{21}
+\contentsline {subsection}{\numberline {5.3}1984}{24}
+\contentsline {section}{\numberline {6}GNU, the GPL, and Linux}{31}
+\contentsline {subsection}{\numberline {6.1}GNU ideas and the GPL}{31}
+\contentsline {subsection}{\numberline {6.2}Minix, Linux, and an accidental avalanche}{34}
+\contentsline {section}{\numberline {7}Conclusion}{36}
+\contentsline {section}{\numberline {8}Appendix}{39}
+\contentsline {section}{\numberline {9}Bibliography}{40}

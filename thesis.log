@@ -1,0 +1,480 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.11)  20 JUN 2013 11:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip43
+\h@ngfstopwd=\skip44
+\h@ngquotewd=\skip45
+\h@ngdquotewd=\skip46
+\h@ngquerywd=\skip47
+\h@ngexclwd=\skip48
+\h@ngcolonwd=\skip49
+\h@ngscolonwd=\skip50
+) (./thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 25.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
+<73-05-19.png, id=13, 546.04pt x 686.565pt>
+File: 73-05-19.png Graphic file (type png)
+ <use 73-05-19.png>
+Package pdftex.def Info: 73-05-19.png used on input line 36.
+(pdftex.def)             Requested size: 325.215pt x 408.91458pt.
+ (./thesis.toc)
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+
+[2] [3 <./73-05-19.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[][]\OT1/cmr/m/n/9 Eric S. Ray-mond, \OT1/cmr/m/it/9 The Jar-gon File ver-sion 
+4.4.7 \OT1/cmr/m/n/9 (2003),
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[][]\OT1/cmr/m/n/9 Eric S. Ray-mond, "How To Be-come A Hacker" (20 May 2012),
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[][]\OT1/cmr/m/n/9 Richard Stall-man, "On Hack-ing" (2002), http://stallman.org
+/articles/on-
+ []
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[][]\OT1/cmr/m/n/9 Chaos Com-puter Congress. "Hack-erethik," (Berlin 2013),
+ []
+
+[5] [6] [7] [8] [9] <cuniform_tablet.jpg, id=56, 54.2025pt x 87.74782pt>
+File: cuniform_tablet.jpg Graphic file (type jpg)
+
+<use cuniform_tablet.jpg>
+Package pdftex.def Info: cuniform_tablet.jpg used on input line 127.
+(pdftex.def)             Requested size: 199.16928pt x 322.52086pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\OT1/cmr/m/n/10.95 Figure 2: A cu-nieform tablet con-tain-ing an-cient pay-ro
+ll in-
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 128--128
+\OT1/cmr/m/n/10.95 for-ma-tion. Amar-Suen. Dis-burse-ment of wages. \OT1/cmr/m/
+it/10.95 Cuneiform
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 128--128
+\OT1/cmr/m/it/10.95 Tablets: From the Reign of Gudea of La-gash to Shal-manas-s
+ar
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 128--128
+\OT1/cmr/m/it/10.95 III. \OT1/cmr/m/n/10.95 Li-brary of Congress, African and M
+id-dle East-ern Di-vi-sion,
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 128--128
+\OT1/cmr/m/n/10.95 Wash-ing-ton, D.C. 20540. 2039 BCE. http://memory.loc.gov/cg
+i-
+ []
+
+
+Overfull \hbox (5.63936pt too wide) in paragraph at lines 128--128
+\OT1/cmr/m/n/10.95 bin/query/h?intldl/cunei:@FIELD(DOCID+@BAND(@lit(amcune00001
+3))) 
+ []
+
+[10 <./cuniform_tablet.jpg>]
+<500px-Blue-punch-card-front-horiz.png, id=60, 120.45pt x 54.2025pt>
+File: 500px-Blue-punch-card-front-horiz.png Graphic file (type png)
+
+<use 500px-Blue-punch-card-front-horiz.png>
+Package pdftex.def Info: 500px-Blue-punch-card-front-horiz.png used on input li
+ne 136.
+(pdftex.def)             Requested size: 256.0748pt x 115.24452pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ó in font cmr10!
+ [11 <./500px-Blue-punch-card-front-horiz.png>]
+<1901_Eastern_Telegraph_cables.png, id=66, 1806.75pt x 1463.4675pt>
+File: 1901_Eastern_Telegraph_cables.png Graphic file (type png)
+
+<use 1901_Eastern_Telegraph_cables.png>
+Package pdftex.def Info: 1901_Eastern_Telegraph_cables.png used on input line 1
+44.
+(pdftex.def)             Requested size: 312.9803pt x 253.49796pt.
+
+<sub_cable_map.png, id=67, 960.58875pt x 712.6625pt>
+File: sub_cable_map.png Graphic file (type png)
+ <use sub_cable_map.png>
+Package pdftex.def Info: sub_cable_map.png used on input line 150.
+(pdftex.def)             Requested size: 312.9803pt x 232.19978pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+[12 <./1901_Eastern_Telegraph_cables.png>] [13 <./sub_cable_map.png>] [14]
+[15] <TX-0.jpg, id=82, 420.06938pt x 325.215pt>
+File: TX-0.jpg Graphic file (type jpg)
+ <use TX-0.jpg>
+Package pdftex.def Info: TX-0.jpg used on input line 251.
+(pdftex.def)             Requested size: 227.62204pt x 176.22385pt.
+
+Underfull \hbox (badness 1527) in paragraph at lines 252--252
+[]\OT1/cmr/m/n/10.95 Figure 6: The TX-0: screen-shot from MIT CSAIL video Archi
+ve
+ []
+
+[16 <./TX-0.jpg>]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+Underfull \hbox (badness 4403) in paragraph at lines 259--259
+[][]\OT1/cmr/m/n/9 Paul Spin-rad and Patti Meagher. "Project Ge-nie: Berke-leys
+ piece of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\OT1/cmr/m/n/9 the com-puter rev-o-lu-tion" \OT1/cmr/m/it/9 Fore-front \OT1/cmr
+/m/n/9 (Fall 2007) http://coe.berkeley.edu/news-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\OT1/cmr/m/n/9 center/publications/forefront/archive/forefront-fall-2007/featur
+es/berkeley2019s-piece-
+ []
+
+[17] [18]
+<800px-Coupleur-accoustique-IMG_0298.JPG, id=92, 321.2pt x 213.9995pt>
+File: 800px-Coupleur-accoustique-IMG_0298.JPG Graphic file (type jpg)
+
+<use 800px-Coupleur-accoustique-IMG_0298.JPG>
+Package pdftex.def Info: 800px-Coupleur-accoustique-IMG_0298.JPG used on input 
+line 269.
+(pdftex.def)             Requested size: 227.62204pt x 151.6566pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]\OT1/cmr/m/n/10.95 Figure 7: Acous-tic Cou-pler via the Wiki-me-dia Foun-da-t
+ion
+ []
+
+[19] [20 <./800px-Coupleur-accoustique-IMG_0298.JPG>]
+<homebrew_cover.jpg, id=99, 450.68375pt x 563.10374pt>
+File: homebrew_cover.jpg Graphic file (type jpg)
+
+<use homebrew_cover.jpg>
+Package pdftex.def Info: homebrew_cover.jpg used on input line 290.
+(pdftex.def)             Requested size: 284.52756pt x 355.51335pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[][]\OT1/cmr/m/n/9 Bill Gates, "An Open Let-ter to Hob-by-ists," \OT1/cmr/m/it/
+9 Var-i-ous Sources \OT1/cmr/m/n/9 (1975)
+ []
+
+[21] <Bill_Gates_Letter_to_Hobbyists.jpg, id=105, 614.295pt x 794.97pt>
+File: Bill_Gates_Letter_to_Hobbyists.jpg Graphic file (type jpg)
+
+<use Bill_Gates_Letter_to_Hobbyists.jpg>
+Package pdftex.def Info: Bill_Gates_Letter_to_Hobbyists.jpg used on input line 
+305.
+(pdftex.def)             Requested size: 361.34999pt x 467.63326pt.
+
+Overfull \hbox (1.34999pt too wide) in paragraph at lines 305--306
+[][] 
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[22 <./homebrew_cover.jpg>] [23 <./Bill_Gates_Letter_to_Hobbyists.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+[][]\OT1/cmr/m/n/9 Jason Stott, "Textfiles.com File Statis-tics," Jul 1 2005,
+ []
+
+[24]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ß in font cmr10!
+ [25] [26] <in003.jpg, id=121, 224.5188pt x 327.624pt>
+File: in003.jpg Graphic file (type jpg)
+ <use in003.jpg>
+Package pdftex.def Info: in003.jpg used on input line 367.
+(pdftex.def)             Requested size: 170.71652pt x 249.11679pt.
+
+[27] [28 <./in003.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[][]\OT1/cmr/m/n/9 DIzzIE, "Why I Steal from Li-braries" (Textfiles.com 2007)
+ []
+
+[29] [30] <gerwinski-gnu-head.png, id=135, 1204.5pt x 1204.5pt>
+File: gerwinski-gnu-head.png Graphic file (type png)
+
+<use gerwinski-gnu-head.png>
+Package pdftex.def Info: gerwinski-gnu-head.png used on input line 388.
+(pdftex.def)             Requested size: 284.52756pt x 284.52788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+[]\OT1/cmr/m/n/10.95 Figure 10: A GNU Head by Eti-enne Su-vasa
+ []
+
+[31 <./gerwinski-gnu-head.png>] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[][]\OT1/cmr/m/n/9 Linus Tor-valds, Usenet Post-ing in comp.os.minix 5 Oct 1991
+.
+ []
+
+[34] [35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+[][]\OT1/cmr/m/n/9 Net Mar-ket Share, "Mar-ket Share Statis-tics for In-ter-net
+ Tech-nolo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+\OT1/cmr/m/n/9 gies" http://www.netmarketshare.com/ and "Top 500 Su-per-com-put
+er Sites"
+ []
+
+[37] [38] [39] [40] [41]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [42] [43] [44] (./thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 1674 strings out of 495059
+ 24411 string characters out of 3182030
+ 76985 words of memory out of 3000000
+ 4836 multiletter control sequences out of 15000+200000
+ 10935 words of font info for 38 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 37i,8n,23p,1311b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb>
+Output written on thesis.pdf (48 pages, 7854646 bytes).
+PDF statistics:
+ 223 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
